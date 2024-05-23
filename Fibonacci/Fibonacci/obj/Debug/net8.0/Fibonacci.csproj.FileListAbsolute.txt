@@ -1,0 +1,14 @@
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfo.cs
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.exe
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.deps.json
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.runtimeconfig.json
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.dll
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.pdb
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.dll
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dll
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
+C:\Users\anala\source\repos\Fibonacci\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll
